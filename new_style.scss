@@ -1,0 +1,12 @@
+.button_group .active{
+    // transition: all 0.3s ease-;
+    // transition-timing-function:all 0.2s ease-out;
+    transition: all 0.3s ease;
+}
+
+.button_group:active {
+
+    
+   
+    transition: all 0.9s ease;
+  }
