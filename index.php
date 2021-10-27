@@ -51,7 +51,7 @@
                     <div class="panel panel-default impact_panel">
                                 <img src="images/impact_created/impact_created_3.png" alt="impact_craated" styel="margin-top:7px;"><br>
                                 <span class="montserrat count" style="margin-top:10px;font-size:36px;font-weight:600;">5</span><span style="margin-top:10px;font-size:36px;font-weight:600;">L+</span><br>
-                                <span class="montserrat" style="font-size:16px;font-weight:700">ACTIVE DONORS</span>
+                                <span class="montserrat" style="font-size:16px;font-weight:700">ACTIVEs DONORS</span>
                     </div>
                 </div>
                 <div class="col-md-3">
